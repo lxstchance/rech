@@ -1,0 +1,17 @@
+.head__join-btn {
+    font-size: 24px;
+    line-height: 29px;
+    font-weight: 700;
+    color: #fff;
+    border-radius: 10px;
+    border: none;
+    background-color: #ff00d6;
+    margin-right: 13px;
+    padding: 18px 77px;
+    cursor: pointer;
+    transition: all .4s ease-in;
+}
+
+.head__join-btn:hover {
+    opacity: 0.8;
+}
