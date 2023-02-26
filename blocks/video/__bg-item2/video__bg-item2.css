@@ -1,0 +1,6 @@
+.video__bg-item1 {
+    position: absolute;
+    top: -55px;
+    left: 50px;
+    z-index: -1;
+}

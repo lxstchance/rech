@@ -1,4 +1,6 @@
 .head__inner {
     display: flex;
     color: #fff;
+    position: relative;
+    z-index: 10;
 }

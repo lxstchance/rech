@@ -1,0 +1,18 @@
+ .feature__item-btn {
+     font-size: 24px;
+     line-height: 29px;
+     font-weight: 400;
+     color: #3BA3FF;
+     background-color: inherit;
+     outline: none;
+     cursor: pointer;
+     border: 1px solid #3BA3FF;
+     border-radius: 10px;
+     padding: 19px 65px;
+     margin-top: 39px;
+     transition: all .4s;
+ }
+
+ .feature__item-btn:hover {
+     opacity: 0.6;
+ }

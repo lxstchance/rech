@@ -1,0 +1,12 @@
+.research__item {
+    /* max-width: 560px; */
+    background-color: #FFFFFF;
+    box-shadow: 0px 10px 30px -6px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    margin-bottom: 40px;
+    padding: 33px 68px 46px 40px;
+}
+
+.research__item:nth-child(odd) {
+    margin-right: 40px;
+}

@@ -1,0 +1,10 @@
+.feature__item {
+    display: flex;
+    margin-bottom: 62px;
+    justify-content: space-around;
+}
+
+.feature__item:last-child {
+    flex-direction: row-reverse;
+    justify-content: space-around;
+}

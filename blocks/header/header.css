@@ -2,4 +2,6 @@
     display: flex;
     padding-top: 29px;
     margin-bottom: -100px;
+    z-index: 10;
+    position: relative;
 }

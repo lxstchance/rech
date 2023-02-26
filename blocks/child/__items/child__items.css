@@ -1,0 +1,4 @@
+.child__items {
+    display: flex;
+    justify-content: space-between;
+}

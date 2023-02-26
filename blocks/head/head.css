@@ -1,4 +1,6 @@
 .head {
-    background-image: url(../../images/head/head-bg.png);
+    background: url(../../images/head/head-bg.png);
     padding-top: 213px;
+    position: relative;
+    overflow: hidden;
 }

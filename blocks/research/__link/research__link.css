@@ -1,0 +1,18 @@
+.research__link {
+    font-size: 14px;
+    line-height: 21px;
+    font-weight: 500;
+    color: #3BA3FF;
+    text-decoration: none;
+    position: relative;
+}
+
+.research__link::after {
+    content: '';
+    position: absolute;
+    width: 18px;
+    height: 7px;
+    background-image: url(../../../images/research/research-arrow.svg);
+    top: 5px;
+    right: -24px;
+}
